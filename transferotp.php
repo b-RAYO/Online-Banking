@@ -55,8 +55,8 @@
 
 
         // Set your app credentials
-        $username   = "brayo";
-        $apiKey     = "c2dccb37be43956089ed18f7de82db2ec40f2ed9f661f1a97c69859ddbeaf7e9";
+        $username   = "";
+        $apiKey     = "";
 
         // Initialize the SDK
         $AT         = new AfricasTalking($username, $apiKey);
