@@ -1,5 +1,4 @@
 <?php
-//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
 
 require "../../_include/dbconn.php";
 
